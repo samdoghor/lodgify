@@ -72,7 +72,7 @@ python server.py
 
 ## Contributing
 
-Please see the [contributing.md](CONTRIBUTING.md) file for details on how to contribute to this project.
+Please see the [contributing.md](backend/CONTRIBUTING.md) file for details on how to contribute to this project.
 
 ## Contact
 
